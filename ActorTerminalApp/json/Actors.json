@@ -1,0 +1,173 @@
+[
+    {
+      "id": 1,
+      "name": "Tom Hanks",
+      "description": "Award-winning actor known for his versatile roles.",
+      "age": 65,
+      "isActive": true,
+      "birthdate": "1956-07-09",
+      "profileImageUrl": "https://example.com/tom-hanks.jpg",
+      "status": "married",
+      "hobbies": ["reading", "traveling", "collecting vintage typewriters"],
+      "otherObject": {
+        "id": 101,
+        "hasPet": true,
+        "pet": "dog",
+        "hasChildren": true,
+        "children": ["Colin Hanks", "Elizabeth Hanks"]
+      }
+    },
+    {
+      "id": 2,
+      "name": "Meryl Streep",
+      "description": "Acclaimed actress with numerous awards.",
+      "age": 72,
+      "isActive": true,
+      "birthdate": "1949-06-22",
+      "profileImageUrl": "https://example.com/meryl-streep.jpg",
+      "status": "married",
+      "hobbies": ["playing music", "gardening", "philanthropy"],
+      "otherObject": {
+        "id": 102,
+        "hasPet": false,
+        "hasChildren": false
+      }
+    },
+    {
+      "id": 3,
+      "name": "Leonardo DiCaprio",
+      "description": "Renowned actor and environmental activist.",
+      "age": 48,
+      "isActive": true,
+      "birthdate": "1974-11-11",
+      "profileImageUrl": "https://example.com/leonardo-dicaprio.jpg",
+      "status": "single",
+      "hobbies": ["flying planes", "scuba diving", "philanthropy"],
+      "otherObject": {
+        "id": 103,
+        "hasPet": true,
+        "pet": "turtle",
+        "hasChildren": false
+      }
+    },
+    {
+      "id": 4,
+      "name": "Jennifer Lawrence",
+      "description": "Talented actress known for her charismatic performances.",
+      "age": 32,
+      "isActive": false,
+      "birthdate": "1990-08-15",
+      "profileImageUrl": "https://example.com/jennifer-lawrence.jpg",
+      "status": "single",
+      "hobbies": ["painting", "reading", "archery"],
+      "otherObject": {
+        "id": 104,
+        "hasPet": false,
+        "hasChildren": false
+      }
+    },
+    {
+      "id": 5,
+      "name": "Keanu Reeves",
+      "description": "Beloved actor and philanthropist.",
+      "age": 57,
+      "isActive": true,
+      "birthdate": "1964-09-02",
+      "profileImageUrl": "https://example.com/keanu-reeves.jpg",
+      "status": "single",
+      "hobbies": ["motorcycling", "playing bass guitar", "volunteering"],
+      "otherObject": {
+        "id": 105,
+        "hasPet": true,
+        "pet": "cat",
+        "hasChildren": true,
+        "children": ["Ava Archer Syme-Reeves"]
+      }
+    },
+    {
+      "id": 6,
+      "name": "Scarlett Johansson",
+      "description": "Versatile actress and singer.",
+      "age": 37,
+      "isActive": true,
+      "birthdate": "1984-11-22",
+      "profileImageUrl": "https://example.com/scarlett-johansson.jpg",
+      "status": "married",
+      "hobbies": ["cooking", "drawing", "singing"],
+      "otherObject": {
+        "id": 106,
+        "hasPet": false,
+        "hasChildren": true,
+        "children": ["Rose Dorothy Dauriac", "Cosmo"]
+      }
+    },
+    {
+      "id": 7,
+      "name": "Robert Downey Jr.",
+      "description": "Iconic actor and producer.",
+      "age": 56,
+      "isActive": true,
+      "birthdate": "1965-04-04",
+      "profileImageUrl": "https://example.com/robert-downey-jr.jpg",
+      "status": "married",
+      "hobbies": ["martial arts", "collecting cars", "technology"],
+      "otherObject": {
+        "id": 107,
+        "hasPet": true,
+        "pet": "dog",
+        "hasChildren": true,
+        "children": ["Exton Elias Downey", "Avri Roel Downey"]
+      }
+    },
+    {
+      "id": 8,
+      "name": "Angelina Jolie",
+      "description": "Actress, filmmaker, and humanitarian.",
+      "age": 47,
+      "isActive": true,
+      "birthdate": "1975-06-04",
+      "profileImageUrl": "https://example.com/angelina-jolie.jpg",
+      "status": "divorced",
+      "hobbies": ["humanitarian work", "piloting", "writing"],
+      "otherObject": {
+        "id": 108,
+        "hasPet": false,
+        "hasChildren": true,
+        "children": ["Maddox", "Pax", "Zahara", "Shiloh", "Knox", "Vivienne"]
+      }
+    },
+    {
+      "id": 9,
+      "name": "Chris Hemsworth",
+      "description": "Australian actor and Marvel superhero.",
+      "age": 39,
+      "isActive": true,
+      "birthdate": "1983-08-11",
+      "profileImageUrl": "https://example.com/chris-hemsworth.jpg",
+      "status": "married",
+      "hobbies": ["surfing", "playing video games", "fitness"],
+      "otherObject": {
+        "id": 109,
+        "hasPet": true,
+        "pet": "horse",
+        "hasChildren": false
+      }
+    },
+    {
+      "id": 10,
+      "name": "Emma Watson",
+      "description": "British actress and UN Women Goodwill Ambassador.",
+      "age": 32,
+      "isActive": true,
+      "birthdate": "1990-04-15",
+      "profileImageUrl": "https://example.com/emma-watson.jpg",
+      "status": "single",
+      "hobbies": ["reading", "advocacy", "dancing"],
+      "otherObject": {
+        "id": 110,
+        "hasPet": true,
+        "pet": "rabbit",
+        "hasChildren": false
+      }
+    }
+  ]  
